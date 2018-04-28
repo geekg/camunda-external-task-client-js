@@ -1,6 +1,6 @@
 {
   "version": "0.1.2",
-  "name": "camunda-external-task-client",
+  "name": "camunda-external-task-client-js",
   "main": "index.js",
   "repository": "https://github.com/geekg/camunda-external-task-client-js.git",
   "author": "Camunda Services GmbH",
